@@ -1,2 +1,4 @@
-# node-red-contrib-calculator-nodes
-testing
+# AddingNode
+
+Describe what the package does here.
+
